@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~2",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "WEBSITE_RUN_FROM_PACKAGE": "1",
+    "REMOTEDEBUGGINGVERSION": "16.0.28729.10",
+    "FUNCTIONS_RUNTIME_SCALE_MONITORING_ENABLED": "0",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=hoanazurediag;AccountKey=uXpFLk5OdpymZQ4wxRXMMU0GWt+e6JxHRItkHWhazoYfUjum8MeU1NHBsgntpQdXMffYDcZzK3u8KHQG/3rYmg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_NODE_DEFAULT_VERSION": "8.11.1",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=hoanazurediag;AccountKey=uXpFLk5OdpymZQ4wxRXMMU0GWt+e6JxHRItkHWhazoYfUjum8MeU1NHBsgntpQdXMffYDcZzK3u8KHQG/3rYmg==;EndpointSuffix=core.windows.net",
+    "WEBSITE_CONTENTSHARE": "hoanfunctionapi",
+    "WEBSITE_AUTH_AUTO_AAD": "False",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "WEBSITE_SITE_NAME": "HoanFunctionApi",
+    "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=hoanazurediag;AccountKey=uXpFLk5OdpymZQ4wxRXMMU0GWt+e6JxHRItkHWhazoYfUjum8MeU1NHBsgntpQdXMffYDcZzK3u8KHQG/3rYmg==;EndpointSuffix=core.windows.net"
+  }
+}
